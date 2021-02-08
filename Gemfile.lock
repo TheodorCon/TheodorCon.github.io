@@ -263,13 +263,11 @@ PLATFORMS
 DEPENDENCIES
   github-pages
   jekyll-feed (~> 0.12)
-  jekyll-theme-midnight
-  jekyll-theme-minimal
-  minima (~> 2.5)
+  minima
   tzinfo (~> 1.2)
   tzinfo-data
   wdm (~> 0.1.1)
-  webrick (~> 1.7)
+  webrick
 
 BUNDLED WITH
    2.2.8
